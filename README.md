@@ -1,4 +1,4 @@
-This repository presents a notebook to reproduce the experiments of the preprint paper "Using Laplacian Spectrum as Graph Feature Representation", that presents the theoretical explanation for the good results obtained in the paper ["A simple baseline algorithm for graph classification"](https://arxiv.org/abs/1810.09155) (see ["here"](https://github.com/edouardpineau/A-simple-baseline-algorithm-for-graph-classification)).
+This repository presents a notebook to reproduce the experiments of the preprint paper "Using Laplacian Spectrum as Graph Feature Representation", that presents the theoretical explanation for the good results obtained in the experimental workshop paper ["A simple baseline algorithm for graph classification"](https://arxiv.org/abs/1810.09155) (see ["here"](https://github.com/edouardpineau/A-simple-baseline-algorithm-for-graph-classification)).
 
 ### Abstract: 
 
